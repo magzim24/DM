@@ -1,0 +1,10 @@
+C:\Users\Admin2\source\repos\DM\DM\bin\Debug\DM.exe.config
+C:\Users\Admin2\source\repos\DM\DM\bin\Debug\DM.exe
+C:\Users\Admin2\source\repos\DM\DM\bin\Debug\DM.pdb
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.csproj.AssemblyReference.cache
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.Form1.resources
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.Properties.Resources.resources
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.exe
+C:\Users\Admin2\source\repos\DM\DM\obj\Debug\DM.pdb
